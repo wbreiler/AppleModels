@@ -1,0 +1,18 @@
+{
+  "name": "apple-spatial-lab",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite --host 127.0.0.1",
+    "test": "node scripts/check-materials.mjs && node scripts/check.mjs",
+    "sync": "node scripts/sync-models.mjs"
+  },
+  "dependencies": {
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.55.1",
+    "vite": "^8.3.2"
+  }
+}
