@@ -1,0 +1,223 @@
+{
+  "refreshed": "2026-10-04T20:31:44.692Z",
+  "devices": [
+    {
+      "id": "iphone",
+      "name": "iPhone 18 Pro / Pro Max",
+      "family": "iPhone",
+      "finish": "Burgundy \u00b7 paired model",
+      "page": "https://www.apple.com/iphone-18-pro/",
+      "source": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/ar/iphone-18-pro-e-sim.usdz",
+      "url": "/models/iphone.zip",
+      "bytes": 8832200
+    },
+    {
+      "id": "iphone-duo",
+      "name": "iPhone Duo",
+      "family": "iPhone",
+      "finish": "Star white",
+      "page": "https://www.apple.com/iphone-duo/",
+      "source": "https://www.apple.com/105/media/us/iphone-duo/2026/9305e4b9-72d9-4c05-9381-b572adadd5e5/ar/iPhone_Duo_e-sim_Star-White_Variant.usdz",
+      "url": "/models/iphone-duo.zip",
+      "bytes": 5749646
+    },
+    {
+      "id": "iphone-air",
+      "name": "iPhone Air",
+      "family": "iPhone",
+      "finish": "Apple default finish",
+      "page": "https://www.apple.com/iphone-air/",
+      "source": "https://www.apple.com/105/media/us/iphone-air/2025/731189b1-a606-493f-afa4-7c766a8fd08d/ar/iphone-air-e-sim.usdz",
+      "url": "/models/iphone-air.zip",
+      "bytes": 5044251
+    },
+    {
+      "id": "iphone-17",
+      "name": "iPhone 17",
+      "family": "iPhone",
+      "finish": "Apple default finish",
+      "page": "https://www.apple.com/iphone-17/",
+      "source": "https://www.apple.com/105/media/us/iphone-17/2025/b2c72de3-1cbc-4e24-b4d3-23c7abcec4ec/ar/iphone-17-e-sim.usdz",
+      "url": "/models/iphone-17.zip",
+      "bytes": 3337931
+    },
+    {
+      "id": "iphone-17e",
+      "name": "iPhone 17e",
+      "family": "iPhone",
+      "finish": "Soft pink",
+      "page": "https://www.apple.com/iphone-17e/",
+      "source": "https://www.apple.com/105/media/us/iphone/shared/ar/2026/44fa1631-e6c3-4596-b59b-0d58f7e8735c/iphone-17e/iphone-17e-e-sim-soft-pink.usdz",
+      "url": "/models/iphone-17e.zip",
+      "bytes": 4115331
+    },
+    {
+      "id": "ipad",
+      "name": "iPad Pro",
+      "family": "iPad",
+      "finish": "Space black \u00b7 with accessories",
+      "page": "https://www.apple.com/ipad-pro/",
+      "source": "https://www.apple.com/105/media/us/ipad-pro/2025/adee90db-c01e-430d-b726-fe64c0063f08/ar/ipad-pro-space-black.usdz",
+      "url": "/models/ipad.zip",
+      "bytes": 7630803
+    },
+    {
+      "id": "ipad-air",
+      "name": "iPad Air",
+      "family": "iPad",
+      "finish": "Blue \u00b7 with accessories",
+      "page": "https://www.apple.com/ipad-air/",
+      "source": "https://www.apple.com/105/media/us/ipad-air/2025/e184d49a-4015-42ae-8a8b-db06bfeabd75/ar/ipad-air-blue-with-accessories.usdz",
+      "url": "/models/ipad-air.zip",
+      "bytes": 8034241
+    },
+    {
+      "id": "ipad-mini",
+      "name": "iPad mini",
+      "family": "iPad",
+      "finish": "Purple",
+      "page": "https://www.apple.com/ipad-mini/",
+      "source": "https://www.apple.com/105/media/us/ipad-mini/2024/ab503ae9-d404-4d31-8983-47a8cb46614f/ar/ipad-mini-purple.usdz",
+      "url": "/models/ipad-mini.zip",
+      "bytes": 4907513
+    },
+    {
+      "id": "ipad-11",
+      "name": "iPad",
+      "family": "iPad",
+      "finish": "Pink",
+      "page": "https://www.apple.com/ipad-11/",
+      "source": "https://www.apple.com/105/media/us/ipad-11/2025/21af9618-666d-4368-9fb9-38822c35dc35/ar/ipad-11-pink.usdz",
+      "url": "/models/ipad-11.zip",
+      "bytes": 2991143
+    },
+    {
+      "id": "macbook",
+      "name": "MacBook Air 13\u2033",
+      "family": "Mac",
+      "finish": "Sky blue",
+      "page": "https://www.apple.com/macbook-air/",
+      "source": "https://www.apple.com/105/media/us/macbook-air/2026/ff11cb38-708e-4c28-9653-1b01a2f8fd2b/ar/macbook-air-13in-sky-blue.usdz",
+      "url": "/models/macbook.zip",
+      "bytes": 4958241
+    },
+    {
+      "id": "macbook-air-15",
+      "name": "MacBook Air 15\u2033",
+      "family": "Mac",
+      "finish": "Sky blue",
+      "page": "https://www.apple.com/macbook-air/",
+      "source": "https://www.apple.com/105/media/us/macbook-air/2026/ff11cb38-708e-4c28-9653-1b01a2f8fd2b/ar/macbook-air-15in-sky-blue.usdz",
+      "url": "/models/macbook-air-15.zip",
+      "bytes": 5045125
+    },
+    {
+      "id": "macbook-pro",
+      "name": "MacBook Pro 14\u2033",
+      "family": "Mac",
+      "finish": "Space black",
+      "page": "https://www.apple.com/macbook-pro/",
+      "source": "https://www.apple.com/105/media/us/macbook-pro/2025/785e1bc4-d1bd-4cf4-b1b3-94b9411c9e74/ar/macbook-pro-14-in-space-black-variant.usdz",
+      "url": "/models/macbook-pro.zip",
+      "bytes": 9108881
+    },
+    {
+      "id": "macbook-neo",
+      "name": "MacBook Neo",
+      "family": "Mac",
+      "finish": "Apple default finish",
+      "page": "https://www.apple.com/macbook-neo/",
+      "source": "https://www.apple.com/105/media/us/macbook-neo/2026/eee281c9-06d4-45d9-9a37-ef16ad413279/ar/macbook-neo.usdz",
+      "url": "/models/macbook-neo.zip",
+      "bytes": 11514948
+    },
+    {
+      "id": "imac",
+      "name": "iMac",
+      "family": "Mac",
+      "finish": "Blue \u00b7 with accessories",
+      "icon": "desktop",
+      "page": "https://www.apple.com/imac/",
+      "source": "https://www.apple.com/105/media/us/imac/2024/e1d50c6b-bc34-47bd-850d-379149b71fb8/ar/imac-with-accessories-blue.usdz",
+      "url": "/models/imac.zip",
+      "bytes": 7141227
+    },
+    {
+      "id": "mac-mini",
+      "name": "Mac mini",
+      "family": "Mac",
+      "finish": "Silver",
+      "icon": "desktop",
+      "page": "https://www.apple.com/mac-mini/",
+      "source": "https://www.apple.com/105/media/us/mac-mini/2026/2140fd43-1461-420d-942c-6f254535a9a4/ar/mac-mini-silver.usdz",
+      "url": "/models/mac-mini.zip",
+      "bytes": 3862826
+    },
+    {
+      "id": "mac-studio",
+      "name": "Mac Studio",
+      "family": "Mac",
+      "finish": "Silver",
+      "icon": "desktop",
+      "page": "https://www.apple.com/mac-studio/",
+      "source": "https://www.apple.com/105/media/us/mac-studio/2026/e5b92529-6fd3-439c-9461-9d111718310f/ar/mac-studio-studio.usdz",
+      "url": "/models/mac-studio.zip",
+      "bytes": 3118880
+    },
+    {
+      "id": "studio-display",
+      "name": "Studio Display",
+      "family": "Mac",
+      "finish": "Apple default finish",
+      "icon": "display",
+      "page": "https://www.apple.com/studio-display/",
+      "source": "https://www.apple.com/105/media/us/studio-display/2026/fcc06a33-5854-47b3-bf6e-b8619f5a4f10/ar/studio-display.usdz",
+      "url": "/models/studio-display.zip",
+      "bytes": 4579133
+    },
+    {
+      "id": "studio-display-xdr",
+      "name": "Studio Display XDR",
+      "family": "Mac",
+      "finish": "Apple default finish",
+      "icon": "display",
+      "page": "https://www.apple.com/studio-display-xdr/",
+      "source": "https://www.apple.com/105/media/us/studio-display-xdr/2026/78048978-2c59-4ed2-b23e-a626af616f46/ar/studio-display-xdr.usdz",
+      "url": "/models/studio-display-xdr.zip",
+      "bytes": 5545850
+    },
+    {
+      "id": "mac-pro-2019",
+      "name": "Mac Pro (2019)",
+      "family": "Legacy",
+      "finish": "Silver \u00b7 tower",
+      "icon": "tower",
+      "page": "https://www.apple.com/mac-pro/",
+      "source": "https://www.apple.com/105/media/us/mac-pro/2019/36178e80-30fd-441c-9a5b-349c6365bb36/quick-look/modern/case-on.usdz",
+      "url": "/models/mac-pro-2019.zip",
+      "bytes": 8177911
+    },
+    {
+      "id": "mac-pro-2019-open",
+      "name": "Mac Pro (2019) \u00b7 case off",
+      "family": "Legacy",
+      "finish": "Internal components",
+      "icon": "tower",
+      "page": "https://www.apple.com/mac-pro/",
+      "source": "https://www.apple.com/105/media/us/mac-pro/2019/36178e80-30fd-441c-9a5b-349c6365bb36/quick-look/case-off.usdz",
+      "url": "/models/mac-pro-2019-open.zip",
+      "bytes": 16367081
+    },
+    {
+      "id": "pro-display-xdr-2019",
+      "name": "Pro Display XDR (2019)",
+      "family": "Legacy",
+      "finish": "Silver \u00b7 Pro Stand",
+      "icon": "display",
+      "page": "https://www.apple.com/pro-display-xdr/",
+      "source": "https://www.apple.com/105/media/us/pro-display-xdr/2019/1e439996-d014-462a-94d6-f67407717b60/quick-look/modern/display.usdz",
+      "url": "/models/pro-display-xdr-2019.zip",
+      "bytes": 9557938
+    }
+  ]
+}
